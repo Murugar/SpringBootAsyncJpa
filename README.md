@@ -1,2 +1,2 @@
-# SpringJPAAsyncQuery
+# SpringBootJpaAsync
 Spring Boot Async JPA
